@@ -1,0 +1,16 @@
+C:\dev\balta.io\fundamentos-csharp\Stopwatch\bin\Debug\net5.0\Stopwatch.exe
+C:\dev\balta.io\fundamentos-csharp\Stopwatch\bin\Debug\net5.0\Stopwatch.deps.json
+C:\dev\balta.io\fundamentos-csharp\Stopwatch\bin\Debug\net5.0\Stopwatch.runtimeconfig.json
+C:\dev\balta.io\fundamentos-csharp\Stopwatch\bin\Debug\net5.0\Stopwatch.runtimeconfig.dev.json
+C:\dev\balta.io\fundamentos-csharp\Stopwatch\bin\Debug\net5.0\Stopwatch.dll
+C:\dev\balta.io\fundamentos-csharp\Stopwatch\bin\Debug\net5.0\ref\Stopwatch.dll
+C:\dev\balta.io\fundamentos-csharp\Stopwatch\bin\Debug\net5.0\Stopwatch.pdb
+C:\dev\balta.io\fundamentos-csharp\Stopwatch\obj\Debug\net5.0\Stopwatch.csproj.AssemblyReference.cache
+C:\dev\balta.io\fundamentos-csharp\Stopwatch\obj\Debug\net5.0\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\balta.io\fundamentos-csharp\Stopwatch\obj\Debug\net5.0\Stopwatch.AssemblyInfoInputs.cache
+C:\dev\balta.io\fundamentos-csharp\Stopwatch\obj\Debug\net5.0\Stopwatch.AssemblyInfo.cs
+C:\dev\balta.io\fundamentos-csharp\Stopwatch\obj\Debug\net5.0\Stopwatch.csproj.CoreCompileInputs.cache
+C:\dev\balta.io\fundamentos-csharp\Stopwatch\obj\Debug\net5.0\Stopwatch.dll
+C:\dev\balta.io\fundamentos-csharp\Stopwatch\obj\Debug\net5.0\ref\Stopwatch.dll
+C:\dev\balta.io\fundamentos-csharp\Stopwatch\obj\Debug\net5.0\Stopwatch.pdb
+C:\dev\balta.io\fundamentos-csharp\Stopwatch\obj\Debug\net5.0\Stopwatch.genruntimeconfig.cache
